@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Seccion7Udemy</string>
+
+    <string name="user_name">Alejandro Menjivar</string>
+    <string name="user_gmail">alejandro.menjivar88@gmail.com</string>
+
+    <string name="open_drawer">Navigation Drawer is open</string>
+    <string name="close_drawer">Navigation Drawer is close</string>
+
+    <string name="home_fragment_tittle">Home</string>
+    <string name="home_fragment_hello">Hello from Home</string>
+    <string name="arrivals_fregment_tittle">Arrivals</string>
+    <string name="arrivals_fragment_hello">Hello from Arrivals</string>
+    <string name="departures_fragment_title">Departures</string>
+    <string name="departures_fragment_hello">Hello from departures</string>
+</resources>
